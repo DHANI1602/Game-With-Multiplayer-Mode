@@ -1,0 +1,300 @@
+fileFormatVersion: 2
+guid: 6d1cab3778a5f4cb5b6808089fc770b7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6666478898112457752
+    second: PinkIdle_0
+  - first:
+      213: -6689715381702308119
+    second: PinkIdle_1
+  - first:
+      213: -2516026212545328875
+    second: PinkIdle_2
+  - first:
+      213: -6854966151530461059
+    second: PinkIdle_3
+  - first:
+      213: 551893132912559942
+    second: PinkIdle_4
+  - first:
+      213: 3980192736817827354
+    second: PinkIdle_5
+  - first:
+      213: -4805629831307858818
+    second: PinkIdle_6
+  - first:
+      213: 1206250820822864650
+    second: PinkIdle_7
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PinkIdle_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 15
+        width: 26
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.304066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e39e5f33c8eb73a0800000000000000
+      internalID: -6666478898112457752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkIdle_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 15
+        width: 26
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31962198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eeca21dd4b5923a0800000000000000
+      internalID: -6689715381702308119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkIdle_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 15
+        width: 26
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30762845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5190aab7d77451dd0800000000000000
+      internalID: -2516026212545328875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkIdle_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 15
+        width: 26
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30762845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7843b6ba944ed0a0800000000000000
+      internalID: -6854966151530461059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkIdle_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 15
+        width: 26
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30762845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6470b3d51e7b8a700800000000000000
+      internalID: 551893132912559942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkIdle_5
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 15
+        width: 26
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3159408}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ecd97c43c7c3730800000000000000
+      internalID: 3980192736817827354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkIdle_6
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 15
+        width: 26
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30762845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7cefd63129fe4db0800000000000000
+      internalID: -4805629831307858818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkIdle_7
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 15
+        width: 26
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30762845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a039b250bb67db010800000000000000
+      internalID: 1206250820822864650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
